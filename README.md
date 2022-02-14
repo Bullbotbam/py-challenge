@@ -1,5 +1,7 @@
 # Lendingtree Reviews
 
+![Lendingtree_Reviews](py-lending_tree/LtReview.png)
+
 ## Table of Contents
 
 - [Description](#description)
@@ -7,8 +9,6 @@
 - [Purpose](#purpose)
 - [Contributing](#contributing)
 - [Issues](#issues)
-- [Links](#links)
-- [Dependencies_Used](#dependencies)
 
 ## Description
 
@@ -28,7 +28,7 @@ Other dependencies import requests, webrowser, pyautogui, pandas.
 
 ## Purpose
 
-[Lendingtree_Reviews]('py-lending_tree/LendingtreeReview.png')
+![Review](py-lending_tree/LendingtreeReview.png)
 
 This project was built to showcase a design for web scraping Lendingtree Reviews to grab infor:
 
@@ -52,5 +52,3 @@ With support and assistance from the developer community at large.
 ## Issues
 
 Web scraping challenge was set with limited testing
-
-## Links
